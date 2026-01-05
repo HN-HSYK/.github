@@ -1,6 +1,6 @@
 # 👀 Ser dette ukjent ut?
 Du ser nå på den "offentlige" siden av GitHub-organisasjonen. 
-Om du forventet noe annet kan det hende du trenger å autentisere deg.
+Om du forventet noe annet kan det hende du trenger å [autentisere deg](https://github.com/login).
 
 # 🙋‍♀️ Jeg trenger tilgang!
 Ikke noe problem. Bare be din superbruker om å bestille tilgang for deg 👍
